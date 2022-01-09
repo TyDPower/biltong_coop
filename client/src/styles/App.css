@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+}
+
+
+.App-border {
+  border: 5px solid white;
+  margin: 30px;
+  cursor: pointer;
+}
+
+.modal {
+  color: black;
+}
+
+.table {
+  cursor: pointer;
+  margin-top: 20px;
+}
